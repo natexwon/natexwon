@@ -2,7 +2,7 @@
 - 👀 I’m interested in emulation, renpy and open source stuff
 - 🌱 I’m currently learning renpy
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @nat3kek on twitter
+- 📫 How to reach me @nathan.blarg on insta
 
 <!---
 natexwon/natexwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
